@@ -56,4 +56,4 @@ This Jupyter Notebook has been meticulously developed to enhance the analysis an
 
 
 ## Contact Information
-For any queries or support, please contact [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anish-more99/)
+For any queries or support, please contact [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshdeshmukh/)
